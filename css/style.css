@@ -1,0 +1,14 @@
+.img {   
+    width: 20%;
+    text-align: center;
+    border-radius: 100%;
+}
+.nav-link {
+color: #fff !important;
+}
+.footer {
+    padding: 10px;
+    background: #007bff;
+    text-align: center;
+    color: #fff;
+}
